@@ -1,2 +1,2 @@
 # game-guacamole
-Tinkering with fun and (py)game
+Tinkering just for fun and (py)game
